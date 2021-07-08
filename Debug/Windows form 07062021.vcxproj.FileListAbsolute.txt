@@ -1,0 +1,15 @@
+D:\Cloud\OneDrive\My Saved Files\VS C++\Window Apps\Windows form 07062021\Debug\Windows form 07062021.vcxprojAssemblyReference.cache
+D:\Cloud\OneDrive\My Saved Files\VS C++\Window Apps\Windows form 07062021\Debug\Windows form 07062021.exe
+D:\Cloud\OneDrive\My Saved Files\VS C++\Window Apps\Windows form 07062021\Debug\Windows form 07062021.pdb
+D:\Cloud\OneDrive\My Saved Files\VS C++\Window Apps\Windows form 07062021\Debug\Windowsform07062021.MyForm.resources
+D:\Cloud\OneDrive\My Saved Files\VS C++\Window Apps\Windows form 07062021\Debug\Windows form 07062021.vcxproj.GenerateResource.cache
+D:\Cloud\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.vcxprojAssemblyReference.cache
+D:\Cloud\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windowsform07062021.MyForm.resources
+D:\Cloud\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.vcxproj.GenerateResource.cache
+D:\Cloud\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.exe
+D:\Cloud\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.pdb
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.vcxprojAssemblyReference.cache
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windowsform07062021.MyForm.resources
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.vcxproj.GenerateResource.cache
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.exe
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.pdb
