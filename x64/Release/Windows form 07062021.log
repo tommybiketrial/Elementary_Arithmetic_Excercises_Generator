@@ -1,4 +1,5 @@
-﻿  MyForm.cpp
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Windows form 07062021.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
 C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(360,19): warning C4101: 'Result': unreferenced local variable
 C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(48): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateAdditions(T,T,T)'
@@ -79,5 +80,7 @@ C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_
               T=double
           ]
 C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(405): message : see reference to class template instantiation 'QuestionsAndAnswer<double>' being compiled
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
   MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Windows form 07062021.vcxproj -> C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\x64\Release\Windows form 07062021.exe
+  Windows form 07062021.vcxproj -> C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\x64\Release\Elementary Arithmetic Excercise Generator.exe

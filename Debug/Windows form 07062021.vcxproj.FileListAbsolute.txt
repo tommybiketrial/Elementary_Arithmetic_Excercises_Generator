@@ -13,8 +13,7 @@ C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Wi
 C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.vcxproj.GenerateResource.cache
 C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.exe
 C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.pdb
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\Debug\Windows form 07062021.vcxprojAssemblyReference.cache
 C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\Debug\Windowsform07062021.MyForm.resources
 C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\Debug\Windows form 07062021.vcxproj.GenerateResource.cache
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\Debug\Windows form 07062021.exe
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\Debug\Windows form 07062021.pdb
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\Debug\Elementary Arithmetic Excercise Generator.exe
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\Debug\Elementary Arithmetic Excercise Generator.pdb

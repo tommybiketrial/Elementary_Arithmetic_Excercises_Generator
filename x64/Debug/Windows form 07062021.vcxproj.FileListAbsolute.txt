@@ -1,0 +1,4 @@
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\x64\Debug\Windowsform07062021.MyForm.resources
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\x64\Debug\Windows form 07062021.vcxproj.GenerateResource.cache
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\x64\Debug\Elementary Arithmetic Excercise Generator.exe
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\x64\Debug\Elementary Arithmetic Excercise Generator.pdb

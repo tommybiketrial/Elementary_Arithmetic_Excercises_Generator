@@ -1,0 +1,3 @@
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\Release\Windowsform07062021.MyForm.resources
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\Release\Windows form 07062021.vcxproj.GenerateResource.cache
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\Release\Elementary Arithmetic Excercise Generator.exe
