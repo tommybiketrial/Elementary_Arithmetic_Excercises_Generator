@@ -1,98 +1,98 @@
 ﻿  MyForm.cpp
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(360,19): warning C4101: 'Result': unreferenced local variable
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(48): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateAdditions(T,T,T)'
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(360,19): warning C4101: 'Result': unreferenced local variable
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(48): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateAdditions(T,T,T)'
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(364): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateAdditions(T,T,T)' being compiled
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(364): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateAdditions(T,T,T)' being compiled
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(363): message : see reference to class template instantiation 'QuestionsAndAnswer<int>' being compiled
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(67,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(66): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateSubtractionsNormal(T,T,T)'
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(363): message : see reference to class template instantiation 'QuestionsAndAnswer<int>' being compiled
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(67,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(66): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateSubtractionsNormal(T,T,T)'
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(385): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateSubtractionsNormal(T,T,T)' being compiled
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(385): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateSubtractionsNormal(T,T,T)' being compiled
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(85,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(84): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateSubtractionsNoNegative(T,T,T)'
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(85,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(84): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateSubtractionsNoNegative(T,T,T)'
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(371): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateSubtractionsNoNegative(T,T,T)' being compiled
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(371): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateSubtractionsNoNegative(T,T,T)' being compiled
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(108,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(107): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateSubtractionsNegative(T,T,T)'
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(108,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(107): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateSubtractionsNegative(T,T,T)'
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(378): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateSubtractionsNegative(T,T,T)' being compiled
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(378): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateSubtractionsNegative(T,T,T)' being compiled
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(131,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(130): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateMultiplications(T,T,T)'
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(131,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(130): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateMultiplications(T,T,T)'
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(392): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateMultiplications(T,T,T)' being compiled
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(392): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateMultiplications(T,T,T)' being compiled
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(149,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(148): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateDivisionsWithRemainders(T,T,T)'
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(149,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(148): message : while compiling class template member function 'void QuestionsAndAnswer<int>::generateDivisionsWithRemainders(T,T,T)'
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(399): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateDivisionsWithRemainders(T,T,T)' being compiled
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(399): message : see reference to function template instantiation 'void QuestionsAndAnswer<int>::generateDivisionsWithRemainders(T,T,T)' being compiled
           with
           [
               T=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(460,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(365): message : see reference to function template instantiation 'void Windowsform07062021::MyForm::N_printQuestion<int>(std::vector<T,std::allocator<_Ty>>,std::vector<_Ty,std::allocator<_Ty>>,char)' being compiled
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(460,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(365): message : see reference to function template instantiation 'void Windowsform07062021::MyForm::N_printQuestion<int>(std::vector<T,std::allocator<_Ty>>,std::vector<_Ty,std::allocator<_Ty>>,char)' being compiled
           with
           [
               T=int,
               _Ty=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(417,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(366): message : see reference to function template instantiation 'void Windowsform07062021::MyForm::N_printQuestionAns<int>(std::vector<T,std::allocator<_Ty>>,std::vector<_Ty,std::allocator<_Ty>>,std::vector<_Ty,std::allocator<_Ty>>,std::vector<_Ty,std::allocator<_Ty>>,char)' being compiled
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(417,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(366): message : see reference to function template instantiation 'void Windowsform07062021::MyForm::N_printQuestionAns<int>(std::vector<T,std::allocator<_Ty>>,std::vector<_Ty,std::allocator<_Ty>>,std::vector<_Ty,std::allocator<_Ty>>,std::vector<_Ty,std::allocator<_Ty>>,char)' being compiled
           with
           [
               T=int,
               _Ty=int
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(436,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(167,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\BasicArithmetics.h(166): message : while compiling class template member function 'void QuestionsAndAnswer<double>::generateDivisions(T,T,T)'
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(436,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(167,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\BasicArithmetics.h(166): message : while compiling class template member function 'void QuestionsAndAnswer<double>::generateDivisions(T,T,T)'
           with
           [
               T=double
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(406): message : see reference to function template instantiation 'void QuestionsAndAnswer<double>::generateDivisions(T,T,T)' being compiled
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(406): message : see reference to function template instantiation 'void QuestionsAndAnswer<double>::generateDivisions(T,T,T)' being compiled
           with
           [
               T=double
           ]
-C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\MyForm.h(405): message : see reference to class template instantiation 'QuestionsAndAnswer<double>' being compiled
+C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\MyForm.h(405): message : see reference to class template instantiation 'QuestionsAndAnswer<double>' being compiled
   MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Windows form 07062021.vcxproj -> C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\MathWarmUpCLI\Debug\Windows form 07062021.exe
+  Windows form 07062021.vcxproj -> C:\Users\tommy\OneDrive\My Saved Files\VS C++\Window Apps\Elementary_Arithmetic_Excercises_Generator\Debug\Windows form 07062021.exe
